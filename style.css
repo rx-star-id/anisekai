@@ -118,7 +118,7 @@ a:hover, a:focus, a:active, a:visited {
                 color:#016cc7;
             }
 .main .about {
-	width: 31.333333%;
+	width: 20%;
 	-webkit-transition: all 0.3s;
   	-moz-transition: all 0.3s;
   	transition: all 0.3s;
