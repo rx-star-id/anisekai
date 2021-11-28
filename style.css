@@ -10,7 +10,7 @@ background: url('anisekaimain/images/bg.jpg') no-repeat fixed;
    background-size: 100% 100%;
 }
 h1, h2, h3, h4, h5, h6 {
-	font-weight: 800;
+	font-weight: 700;
     font-family: 'Roboto', sans-serif;
     text-transform: capitalize;
     letter-spacing: -0.1px;
