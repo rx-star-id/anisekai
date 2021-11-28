@@ -119,16 +119,7 @@ a:hover, a:focus, a:active, a:visited {
                 color:#016cc7;
             }
 .main .about {
-	 width: 200px;
-    margin: 0 auto;
-    text-align: center;
 	
-	-webkit-transition: all 0.3s;
-  	-moz-transition: all 0.3s;
-  	transition: all 0.3s;
-  	
-  	border: 3px solid #f6f6f6;
-    border-radius: 5px;
 }
 .main .about:hover {
     box-shadow: 3px 3px 10px #ccc;
