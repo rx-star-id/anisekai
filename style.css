@@ -3,15 +3,11 @@
 * Email - vinitshahdeo@gmail.com
 */
 body {
-background: url('img/animeindo.png') no-repeat fixed;
+background: url('anisekaimain/images/bg.jpg') no-repeat fixed;
    -webkit-background-size: 100% 100%;
    -moz-background-size: 100% 100%;
    -o-background-size: 100% 100%;
    background-size: 100% 100%;
-	font-family: 'Montserrat', sans-serif;
-    color: #404142;
-    font-size: 16px;
-	letter-spacing: 0.2px;
 }
 h1, h2, h3, h4, h5, h6 {
 	font-weight: 800;
