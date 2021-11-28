@@ -189,10 +189,10 @@ ul.social li a {
 
 /* Mobile */
 
-@media (max-width: 1280px) {
+@media (max-width: 767px) {
     
     .main .about {
-        width: 100%
+        width: 49%
     }
 }
 
