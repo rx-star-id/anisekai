@@ -2,13 +2,11 @@
 * Author - Vinit Shahdeo
 * Email - vinitshahdeo@gmail.com
 */
-
 body {
-background: url('images/bg.jpg') no-repeat fixed;
-   -webkit-background-size: 100% 100%;
-   -moz-background-size: 100% 100%;
-   -o-background-size: 100% 100%;
-   background-size: 100% 100%;
+	font-family: 'Montserrat', sans-serif;
+    color: #404142;
+    font-size: 16px;
+	letter-spacing: 0.2px;
 }
 h1, h2, h3, h4, h5, h6 {
 	font-weight: 800;
@@ -87,8 +85,8 @@ a:hover, a:focus, a:active, a:visited {
 
 /* div class */
 .about {
-	padding: 10px;
-	margin-top: 10px;
+	padding: 20px;
+	margin-top: 20px;
 }
 .about span {
 	font-size: 2em;
@@ -191,7 +189,7 @@ ul.social li a {
 
 /* Mobile */
 
-@media (max-width: 767px) {
+@media (max-width: 1280px) {
     
     .main .about {
         width: 100%
