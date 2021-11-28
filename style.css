@@ -87,6 +87,7 @@ a:hover, a:focus, a:active, a:visited {
 .about {
 	padding: 20px;
 	margin-top: 20px;
+	
 }
 .about span {
 	font-size: 2em;
@@ -118,11 +119,14 @@ a:hover, a:focus, a:active, a:visited {
                 color:#016cc7;
             }
 .main .about {
-	width: 31.333333%;
+	 width: 200px;
+    margin: 0 auto;
+    text-align: center;
+	
 	-webkit-transition: all 0.3s;
   	-moz-transition: all 0.3s;
   	transition: all 0.3s;
-  	margin-right: 20px;
+  	
   	border: 3px solid #f6f6f6;
     border-radius: 5px;
 }
