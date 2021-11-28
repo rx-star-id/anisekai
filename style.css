@@ -84,43 +84,8 @@ a:hover, a:focus, a:active, a:visited {
 }
 
 /* div class */
-.about {
-	padding: 20px;
-	margin-top: 20px;
-	
-}
-.about span {
-	font-size: 2em;
-    color: #016cc7;
-}
-            .about p{
-                opacity:0.6;
-            }
-             .about p span{
-                color:#016cc7;
-                 font-size:1em;
-                 opacity: 1.0;
-                 font-weight: bolder;
-                 -webkit-transition: all 0.8s;
-  	-moz-transition: all 0.8s;
-  	transition: all 0.8s;
-            }
-       .about p span:hover{
-               letter-spacing: 0.1px;
-               text-transform: uppercase;
-           cursor: pointer;
-            }
-            .about a{
-                text-decoration:none;
-                font-weight:bold;
-                color:#2a2a2a;
-            }
-            .about a:hover{
-                color:#016cc7;
-            }
-.main .about {
-	
-}
+
+
 .main .about:hover {
     box-shadow: 3px 3px 10px #ccc;
     transform: translateY(-10px);
